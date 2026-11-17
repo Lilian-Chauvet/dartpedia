@@ -1,0 +1,6 @@
+[2026-11-17 14:04:00.196643 - errors] WARNING: ArgumentException: Please include a search term 
+[2026-11-17 14:05:08.133424 - errors] WARNING: ArgumentException: Please include a search term 
+[2026-11-17 14:05:15.237349 - errors] WARNING: ArgumentException: Unknown option --test 
+[2026-11-17 14:06:51.668352 - errors] WARNING: ArgumentException: Please include a search term 
+[2026-11-17 14:08:08.150068 - errors] WARNING: ArgumentException: Please include a search term 
+[2026-11-17 14:08:15.801269 - errors] WARNING: ArgumentException: Unknown option --im-feeling-lucky 
